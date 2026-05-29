@@ -102,7 +102,7 @@ This plugin can help identify:
 
 ## Screenshot
 
-![Recent Security Events](images/activity-logger-dashboard.png)
+![Recent Security Events](https://github.com/dportersec/Wordpress-Activity-Logger/blob/main/activitylog.png)
 
 ---
 
